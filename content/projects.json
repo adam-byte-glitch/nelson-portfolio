@@ -1,0 +1,37 @@
+{
+  "site": {
+    "title": "Adam — Portfolio",
+    "updatedAt": "2026-02-04T00:00:00.000Z"
+  },
+  "projects": [
+    {
+      "id": "chat-agentic-ui",
+      "title": "chat-agentic-ui",
+      "year": "2026",
+      "tags": ["UI", "Motion"],
+      "thumbnail": {
+        "type": "image",
+        "src": "https://chat-agentic-ui.vercel.app/",
+        "alt": "chat-agentic-ui"
+      },
+      "published": true,
+      "blocks": [
+        {
+          "type": "header",
+          "text": "Chat Input UI"
+        },
+        {
+          "type": "body",
+          "text": "A motion-forward chat input component study."
+        },
+        {
+          "type": "media",
+          "mediaType": "embed",
+          "src": "https://chat-agentic-ui.vercel.app",
+          "aspect": "landscape",
+          "caption": "Live embed"
+        }
+      ]
+    }
+  ]
+}
